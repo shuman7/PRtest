@@ -1,0 +1,2 @@
+ここにきて修正する。
+master以外のbranchからpushするとPullrequestが作れるのか？
